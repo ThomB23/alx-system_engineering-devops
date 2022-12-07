@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions
+Creat a script that creats an alias
